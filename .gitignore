@@ -1,0 +1,9 @@
+# Local tooling
+.claude/
+
+# Old pixel-art version (unlinked, kept locally only)
+play/
+
+.DS_Store
+Thumbs.db
+.vercel
