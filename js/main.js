@@ -5,7 +5,7 @@
   const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
   const canHover = matchMedia("(hover: hover) and (pointer: fine)").matches;
   const EASE = "cubic-bezier(.16, 1, .3, 1)";
-  const EMAIL = "avishi.sharma.210906@gmail.com";
+  const EMAIL = "avishi1.dev@gmail.com";
 
   /* ---------- Smooth scroll (Lenis) ---------- */
   let lenis = null;
